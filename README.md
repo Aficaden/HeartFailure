@@ -12,6 +12,7 @@ After applying Logistic Regression, Decision Tree, and Random Forest methods and
 
 <img width="768" alt="image" src="https://github.com/Aficaden/HeartFailure/assets/108297252/9639dda3-b5c0-4f8a-83f0-9b144b0f9d55">
 
+# Important insights: 
 
 Percentage of patients who died with the abnormality level of important features: 
-- Ejection_fraction: 85.4% (most correlated feature after time)- Creatinine_phosphokinase: 80%- Serum_creatinine: 70.6% for women and 30.65% for men- Serum_sodium: 43.75% - Platelets: 16.67%<img width="869" alt="image" src="https://github.com/Aficaden/HeartFailure/assets/108297252/951d90a5-12ca-412b-9f2f-c0b391174fb5">
+<img width="869" alt="image" src="https://github.com/Aficaden/HeartFailure/assets/108297252/951d90a5-12ca-412b-9f2f-c0b391174fb5">
