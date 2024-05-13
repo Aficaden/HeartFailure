@@ -16,5 +16,6 @@ After applying Logistic Regression, Decision Tree, and Random Forest methods and
 
 <img width="869" alt="image" src="https://github.com/Aficaden/HeartFailure/assets/108297252/951d90a5-12ca-412b-9f2f-c0b391174fb5">
 
+# Final summary: 
 
 <img width="992" alt="image" src="https://github.com/Aficaden/HeartFailure/assets/108297252/9b786081-116c-4360-8c06-fb87145e68dd">
